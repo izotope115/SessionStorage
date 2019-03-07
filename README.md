@@ -1,2 +1,2 @@
-# SessionStorage
-Examples of using Session Storage
+# Session Storage
+Examples of using Session Storage and Javascript.
